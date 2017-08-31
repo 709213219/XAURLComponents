@@ -1,0 +1,2 @@
+# XAURLComponents
+在低版本可以直接使用NSURLComponents的所有高版本属性和方法
